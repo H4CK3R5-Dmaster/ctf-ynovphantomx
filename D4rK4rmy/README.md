@@ -26,3 +26,7 @@ Aujourd'hui c'est votre mission
 ## Note importante
 
 - veuillez télécharger le fichier OVA et importer sur virtualbox (pour vmware une autre version arrive)
+
+### BONUS:
+
+Il peut exister un flag bonus ;)
