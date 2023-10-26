@@ -22,3 +22,7 @@ Aujourd'hui c'est votre mission
 ### forme des flags
 
 - ........{.....}
+
+## Note importante
+
+- veuillez télécharger le fichier OVA et importer sur virtualbox (pour vmware une autre version arrive)
