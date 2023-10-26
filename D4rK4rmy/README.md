@@ -7,3 +7,18 @@
 # OVA FILE
 
 Download here : https://mega.nz/file/QHEQGIhL#3p0imwe0y8DmnoTdA1o8xlhYZ3-Y0Yaq9smv9LpWkWU
+
+## Contexte
+
+Voici un serveur appartenant à un ingénieur infrastructure. Il y'a quelques heures un groupe connu dans le monde de la cybersécurité a pu piraté le serveur en question. L'ingénieur ayant fait appel à Eliott (ingénieur cybersécurité), il pu avoir un accès mais sans plus c'est une mission échouée pour Eliott.
+
+Aujourd'hui c'est votre mission
+
+- trouver un accès au serveur
+- trouver qui est le groupe
+- rechercher des informations importantes 
+- trouver les 3 flags cachés
+
+### forme des flags
+
+- ........{.....}
